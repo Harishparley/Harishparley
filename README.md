@@ -8,10 +8,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D68F?style=for-the-badge&labelColor=0D0F12" />
-<img src="https://img.shields.io/badge/OPEN%20TO-WORK-E8A33D?style=for-the-badge&labelColor=0D0F12" />
+<!-- <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D68F?style=for-the-badge&labelColor=0D0F12" />
+<img src="https://img.shields.io/badge/OPEN%20TO-WORK-E8A33D?style=for-the-badge&labelColor=0D0F12" /> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <!-- <a href="https://www.linkedin.com/in/harishparley/">
 <img src="https://img.shields.io/badge/LinkedIn-E8A33D?style=for-the-badge&logo=linkedin&logoColor=0D0F12&labelColor=0D0F12" />
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Email-1A1F26?style=for-the-badge&logo=gmail&logoColor=E8A33D&labelColor=0D0F12" />
 </a> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <img src="https://komarev.com/ghpvc/?username=Harishparley&label=Profile+Views&color=00D68F&style=for-the-badge&labelColor=0D0F12" />
 
