@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00D68F&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer+%7C+MERN+%2B+AI;Gemini+%2B+OpenAI+%2B+OCR+in+Production;System+Status%3A+Online+%26+Building;Open+to+Full-Time+Opportunities" />
 </a>
 
-<br/>
+<!-- <br/> -->
 
 <!-- <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D68F?style=for-the-badge&labelColor=0D0F12" />
 <img src="https://img.shields.io/badge/OPEN%20TO-WORK-E8A33D?style=for-the-badge&labelColor=0D0F12" /> -->
