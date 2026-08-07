@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/harishparley/">
+<!-- <a href="https://www.linkedin.com/in/harishparley/">
 <img src="https://img.shields.io/badge/LinkedIn-E8A33D?style=for-the-badge&logo=linkedin&logoColor=0D0F12&labelColor=0D0F12" />
 </a>
 <a href="https://portfolio-harishparley.vercel.app/">
@@ -21,7 +21,7 @@
 </a>
 <a href="mailto:harishparleyhp@gmail.com">
 <img src="https://img.shields.io/badge/Email-1A1F26?style=for-the-badge&logo=gmail&logoColor=E8A33D&labelColor=0D0F12" />
-</a>
+</a> -->
 
 <br/><br/>
 
