@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0F12,50:132420,100:0D0F12&height=220&section=header&text=HARISH%20PARLEY&fontSize=44&fontColor=E8A33D&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Engineer%20crafting%20AI-powered%20MERN%20products&descAlignY=55&descAlign=50&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0F12,50:132420,100:0D0F12&height=220&section=header&text=HARISH%20PARLEY&fontSize=44&fontColor=E8A33D&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20AI-Powered%20MERN%20Products&descAlignY=55&descAlign=50&descSize=16" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00D68F&center=true&vCenter=true&width=760&lines=Full-Stack+Engineer+%7C+MERN+%2B+AI+Systems;Shipping+with+Gemini+%2B+OpenAI+%2B+OCR;System+Status%3A+Online+%26+Building;Open+to+Full-Time+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00D68F&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer+%7C+MERN+%2B+AI;Gemini+%2B+OpenAI+%2B+OCR+in+Production;System+Status%3A+Online+%26+Building;Open+to+Full-Time+Opportunities" />
 </a>
 
 <br/>
