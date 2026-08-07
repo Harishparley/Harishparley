@@ -74,7 +74,7 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 
 #### `$ git log --stat --pinned`
 
-</div>
+<!-- </div>
 
 <table>
 <tr>
@@ -91,8 +91,8 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/Harishparley/Velvet_brew-cafe">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=Velvet_brew-cafe&bg_color=0D0F12&title_color=E8A33D&icon_color=00D68F&text_color=F5F0E6&border_color=2A2F36&hide_border=false" />
+<a href="https://github.com/Harishparley/Velvet_brew-cafe"> -->
+<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=Velvet_brew-cafe&bg_color=0D0F12&title_color=E8A33D&icon_color=00D68F&text_color=F5F0E6&border_color=2A2F36&hide_border=false" />
 </a>
 </td>
 <td width="50%">
@@ -113,7 +113,7 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 </a>
 </td>
 </tr>
-</table>
+</table> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8A33D,50:00D68F,100:E8A33D&height=3&section=header" width="100%" />
 
