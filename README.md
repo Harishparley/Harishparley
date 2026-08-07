@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0EA5E9&height=200&section=header&text=Harish%20Parley&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20%26%20LLM%20Integration&descAlignY=55&descSize=18" />
+
 
 <p>
   <a href="https://www.linkedin.com/in/harishparley/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
