@@ -62,8 +62,8 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
-
+<!-- <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" /> -->
+<br/>
 <div>
 
 ###PROJECTS
@@ -128,11 +128,12 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishparley&bg_color=0B0906&color=D4AF37&line=D4AF37&point=F4E4BC&area=true&area_color=8B6914&hide_border=true" />
 
-</div>
+<br/>
+<!-- </div>
 
 <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
 
-<div align="center">
+<div align="center"> -->
 
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=Harishparley&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8" />
