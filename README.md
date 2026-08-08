@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=19&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+AI-powered+full-stack+products;Gemini+%2B+OpenAI+%2B+Computer+Vision+(OCR);Architecting+scalable+MERN+systems;Currently+exploring+n8n+%2B+LLM+agents" />
 </a>
 
-<br/><br/>
+<!-- <br/><br/>
 
 <a href="https://www.linkedin.com/in/harishparley/">
 <img src="https://img.shields.io/badge/LINKEDIN-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0B0906&labelColor=0B0906" />
@@ -20,15 +20,15 @@
 <img src="https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=0B0906&labelColor=0B0906" />
 </a>
 
-<br/><br/>
+<br/><br/> -->
 
-<img src="https://komarev.com/ghpvc/?username=Harishparley&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge&labelColor=0B0906" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Harishparley&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge&labelColor=0B0906" /> -->
 
 </div>
 
-<br/>
+<!-- <br/> -->
 
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" /> -->
 
 <table>
 <tr>
@@ -48,8 +48,7 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 <td width="40%" valign="top">
 
 ### STACK
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,aws,vercel&theme=dark&perline=4" />
+ <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,aws,vercel&theme=dark&perline=4" /> 
 
 <br/>
 
@@ -67,7 +66,7 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 
 <div align="center">
 
-### PROJECTS
+#PROJECTS
 
 </div>
 
@@ -135,13 +134,12 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 
 <div align="center">
 
-### ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harishparley&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Harishparley&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" /> -->
 
 <div align="center">
 
