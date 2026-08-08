@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/banner.svg?v=3" width="100%" />
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
 
 <table>
 <tr>
@@ -63,39 +63,60 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
 
 <div align="center">
 
 ### PROJECTS
 
-<a href="https://github.com/Harishparley/Quicksell-">
-<img src="https://img.shields.io/badge/QuickSell-AI_Verified_Campus_Marketplace-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906&labelColor=0B0906" />
-</a>
-<br/><br/>
-<a href="https://github.com/Harishparley/Gym_website">
-<img src="https://img.shields.io/badge/Gym__Website-Fitness_Landing_Page-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906&labelColor=0B0906" />
-</a>
-<br/><br/>
-<a href="https://github.com/Harishparley/Velvet_brew-cafe">
-<img src="https://img.shields.io/badge/Velvet_Brew_Cafe-Restaurant_Website-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906&labelColor=0B0906" />
-</a>
-<br/><br/>
-<a href="https://github.com/Harishparley/AuraBeauty">
-<img src="https://img.shields.io/badge/AuraBeauty-Beauty_Studio_Website-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906&labelColor=0B0906" />
-</a>
-<br/><br/>
-<a href="https://github.com/Harishparley/azure-haven-resort">
-<img src="https://img.shields.io/badge/Azure_Haven_Resort-Resort_Landing_Page-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906&labelColor=0B0906" />
-</a>
-<br/><br/>
-<a href="https://github.com/Harishparley/chai_culture_task">
-<img src="https://img.shields.io/badge/Chai_Culture-Brand_Landing_Page-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906&labelColor=0B0906" />
-</a>
-
 </div>
 
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg" width="100%" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Harishparley/Quicksell-"><img src="https://img.shields.io/badge/QuickSell-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906" /></a>
+<br/>AI-verified P2P campus marketplace with real-time chat.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Harishparley/Gym_website"><img src="https://img.shields.io/badge/Gym_Website-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906" /></a>
+<br/>Fitness studio landing page.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Harishparley/Velvet_brew-cafe"><img src="https://img.shields.io/badge/Velvet_Brew_Cafe-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906" /></a>
+<br/>Cafe & restaurant website.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Harishparley/AuraBeauty"><img src="https://img.shields.io/badge/AuraBeauty-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906" /></a>
+<br/>Beauty studio website.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Harishparley/azure-haven-resort"><img src="https://img.shields.io/badge/Azure_Haven_Resort-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906" /></a>
+<br/>Resort landing page.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Harishparley/chai_culture_task"><img src="https://img.shields.io/badge/Chai_Culture-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906" /></a>
+<br/>Brand landing page.
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
 
 <div align="center">
 
@@ -110,7 +131,7 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
 
 <div align="center">
 
@@ -120,7 +141,7 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
 
 <div align="center">
 
