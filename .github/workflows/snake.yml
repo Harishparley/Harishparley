@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: Harishparley
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=E8A33D&color_dots=161A1F,0F3D33,128C6B,00D68F,E8A33D
-            dist/github-contribution-grid-snake-dark.svg?color_snake=E8A33D&color_dots=161A1F,0F3D33,128C6B,00D68F,E8A33D
+            dist/github-contribution-grid-snake.svg?color_snake=%23F4E4BC&color_dots=%23161310,%234A3510,%238B6914,%23C9A227,%23F4E4BC
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F4E4BC&color_dots=%23161310,%234A3510,%238B6914,%23C9A227,%23F4E4BC
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
