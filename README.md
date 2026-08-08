@@ -64,11 +64,11 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 
 <!-- <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" /> -->
 <br/>
-<div>
 
-###PROJECTS
+<div align="center">
+### PROJECTS
+ 
 
-</div>
 
 <table>
 <tr>
@@ -114,6 +114,7 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 </td>
 </tr>
 </table>
+</div>
 
 <!-- <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" /> -->
 
