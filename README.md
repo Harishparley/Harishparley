@@ -36,11 +36,11 @@
 
 ### ABOUT
 
-Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (Gemini, OpenAI) and **computer vision (OCR)** into production applications. I build scalable systems end-to-end — backend architecture, RESTful APIs, real-time features, and AI-driven functionality.
-
-- Currently building **QuickSell** — an AI-verified P2P campus marketplace
-- Integrating LLM APIs + Tesseract.js OCR into production apps
-- Diving into **n8n workflow automation** & **LLM agent design**
+Full Stack MERN Developer who builds scalable, production-ready systems end-to-end — backend architecture, RESTful APIs, and real-time features. Built **QuickSell**, an AI-verified P2P campus marketplace that uses OCR-based identity verification and real-time chat.
+ 
+- Built **QuickSell** — AI-verified P2P campus marketplace with OCR-based ID verification
+- Comfortable working with **REST APIs**, **Socket.io real-time systems**, and **cloud deployment**
+- Interested in exploring **LLM integration** and **workflow automation** further
 - B.Tech IT, University Institute of Technology, Bhopal · 2022–2026
 - Based in Indore, India
 
@@ -66,7 +66,7 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 <br/>
 
 <div align="center">
-### PROJECTS
+<b> PROJECTS <b/>
  
 
 
