@@ -1,45 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0F12,50:132420,100:0D0F12&height=220&section=header&text=HARISH%20PARLEY&fontSize=44&fontColor=E8A33D&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20AI-Powered%20MERN%20Products&descAlignY=55&descAlign=50&descSize=16" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/banner.svg" width="100%" />
+
+<br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00D68F&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer+%7C+MERN+%2B+AI;Gemini+%2B+OpenAI+%2B+OCR+in+Production;System+Status%3A+Online+%26+Building;Open+to+Full-Time+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&lines=Building+AI-powered+full-stack+products;Gemini+%2B+OpenAI+%2B+Computer+Vision+(OCR);Architecting+scalable+MERN+systems;Currently+exploring+n8n+%2B+LLM+agents" />
 </a>
 
-<!-- <br/> -->
+<br/><br/>
 
-<!-- <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D68F?style=for-the-badge&labelColor=0D0F12" />
-<img src="https://img.shields.io/badge/OPEN%20TO-WORK-E8A33D?style=for-the-badge&labelColor=0D0F12" /> -->
-
-<!-- <br/><br/> -->
-
-<!-- <a href="https://www.linkedin.com/in/harishparley/">
-<img src="https://img.shields.io/badge/LinkedIn-E8A33D?style=for-the-badge&logo=linkedin&logoColor=0D0F12&labelColor=0D0F12" />
+<a href="https://www.linkedin.com/in/harishparley/">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1B0F33" />
 </a>
 <a href="https://portfolio-harishparley.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00D68F?style=for-the-badge&logo=vercel&logoColor=0D0F12&labelColor=0D0F12" />
+<img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1B0F33" />
 </a>
 <a href="mailto:harishparleyhp@gmail.com">
-<img src="https://img.shields.io/badge/Email-1A1F26?style=for-the-badge&logo=gmail&logoColor=E8A33D&labelColor=0D0F12" />
-</a> -->
+<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1B0F33" />
+</a>
 
-<!-- <br/><br/> -->
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Harishparley&label=Profile+Views&color=00D68F&style=for-the-badge&labelColor=0D0F12" />
+<img src="https://komarev.com/ghpvc/?username=Harishparley&label=Profile+Views&color=8B5CF6&style=for-the-badge&labelColor=1B0F33" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8A33D,50:00D68F,100:E8A33D&height=3&section=header" width="100%" />
-
-<br/>
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg" width="100%" />
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-#### `$ cat about.md`
+### 👋 About Me
 
 Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (Gemini, OpenAI) and **computer vision (OCR)** into production applications. I build scalable systems end-to-end — backend architecture, RESTful APIs, real-time features, and AI-driven functionality.
 
@@ -52,106 +47,106 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 </td>
 <td width="40%" valign="top">
 
-#### `$ ls stack/`
+### 🧰 Stack
 
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,aws,vercel&theme=dark&perline=4" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/OpenAI-E8A33D?style=flat-square&logo=openai&logoColor=0D0F12" />
-<img src="https://img.shields.io/badge/Gemini-00D68F?style=flat-square&logo=googlegemini&logoColor=0D0F12" />
+<img src="https://img.shields.io/badge/OpenAI-8B5CF6?style=flat-square&logo=openai&logoColor=white&labelColor=1B0F33" />
+<img src="https://img.shields.io/badge/Gemini-EC4899?style=flat-square&logo=googlegemini&logoColor=white&labelColor=1B0F33" />
 <br/>
-<img src="https://img.shields.io/badge/Socket.io-1A1F26?style=flat-square&logo=socket.io&logoColor=00D68F" />
-<img src="https://img.shields.io/badge/Cloudinary-1A1F26?style=flat-square&logo=cloudinary&logoColor=E8A33D" />
+<img src="https://img.shields.io/badge/Socket.io-6366F1?style=flat-square&logo=socket.io&logoColor=white&labelColor=1B0F33" />
+<img src="https://img.shields.io/badge/Cloudinary-A78BFA?style=flat-square&logo=cloudinary&logoColor=white&labelColor=1B0F33" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8A33D,50:00D68F,100:E8A33D&height=3&section=header" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg" width="100%" />
 
 <div align="center">
 
-#### `$ git log --stat --pinned`
+### 🚀 Projects
 
-<!-- </div>
+</div>
 
 <table>
 <tr>
 <td width="50%">
 <a href="https://github.com/Harishparley/Quicksell-">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=Quicksell-&bg_color=0D0F12&title_color=E8A33D&icon_color=00D68F&text_color=F5F0E6&border_color=2A2F36&hide_border=false" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=Quicksell-&bg_color=1B0F33&title_color=C4B5FD&icon_color=EC4899&text_color=E9D5FF&border_color=6D28D9&hide_border=false" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/Harishparley/Gym_website">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=Gym_website&bg_color=0D0F12&title_color=E8A33D&icon_color=00D68F&text_color=F5F0E6&border_color=2A2F36&hide_border=false" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=Gym_website&bg_color=1B0F33&title_color=C4B5FD&icon_color=EC4899&text_color=E9D5FF&border_color=6D28D9&hide_border=false" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/Harishparley/Velvet_brew-cafe"> -->
-<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=Velvet_brew-cafe&bg_color=0D0F12&title_color=E8A33D&icon_color=00D68F&text_color=F5F0E6&border_color=2A2F36&hide_border=false" />
+<a href="https://github.com/Harishparley/Velvet_brew-cafe">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=Velvet_brew-cafe&bg_color=1B0F33&title_color=C4B5FD&icon_color=EC4899&text_color=E9D5FF&border_color=6D28D9&hide_border=false" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/Harishparley/AuraBeauty">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=AuraBeauty&bg_color=0D0F12&title_color=E8A33D&icon_color=00D68F&text_color=F5F0E6&border_color=2A2F36&hide_border=false" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=AuraBeauty&bg_color=1B0F33&title_color=C4B5FD&icon_color=EC4899&text_color=E9D5FF&border_color=6D28D9&hide_border=false" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/Harishparley/azure-haven-resort">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=azure-haven-resort&bg_color=0D0F12&title_color=E8A33D&icon_color=00D68F&text_color=F5F0E6&border_color=2A2F36&hide_border=false" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=azure-haven-resort&bg_color=1B0F33&title_color=C4B5FD&icon_color=EC4899&text_color=E9D5FF&border_color=6D28D9&hide_border=false" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/Harishparley/chai_culture_task">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=chai_culture_task&bg_color=0D0F12&title_color=E8A33D&icon_color=00D68F&text_color=F5F0E6&border_color=2A2F36&hide_border=false" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harishparley&repo=chai_culture_task&bg_color=1B0F33&title_color=C4B5FD&icon_color=EC4899&text_color=E9D5FF&border_color=6D28D9&hide_border=false" />
 </a>
 </td>
 </tr>
-</table> -->
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8A33D,50:00D68F,100:E8A33D&height=3&section=header" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg" width="100%" />
 
 <div align="center">
 
-#### `$ ./run_diagnostics.sh`
+### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harishparley&show_icons=true&hide_border=false&bg_color=0D0F12&title_color=E8A33D&icon_color=00D68F&text_color=F5F0E6&border_color=2A2F36&ring_color=E8A33D&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishparley&layout=compact&hide_border=false&bg_color=0D0F12&title_color=E8A33D&text_color=F5F0E6&border_color=2A2F36" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harishparley&show_icons=true&hide_border=true&bg_color=1B0F33&title_color=C4B5FD&icon_color=EC4899&text_color=E9D5FF&ring_color=8B5CF6&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishparley&layout=compact&hide_border=true&bg_color=1B0F33&title_color=C4B5FD&text_color=E9D5FF" />
 
-<img src="https://streak-stats.demolab.com/?user=Harishparley&hide_border=false&background=0D0F12&ring=E8A33D&fire=00D68F&currStreakLabel=E8A33D&sideLabels=F5F0E6&currStreakNum=F5F0E6&sideNums=F5F0E6&dates=8B8F94&border=2A2F36" />
+<img src="https://streak-stats.demolab.com/?user=Harishparley&hide_border=true&background=1B0F33&ring=8B5CF6&fire=EC4899&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=A78BFA" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishparley&bg_color=0D0F12&color=E8A33D&line=00D68F&point=F5F0E6&area=true&area_color=00D68F&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishparley&bg_color=1B0F33&color=C4B5FD&line=8B5CF6&point=EC4899&area=true&area_color=6366F1&hide_border=true" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8A33D,50:00D68F,100:E8A33D&height=3&section=header" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg" width="100%" />
 
 <div align="center">
 
-#### `$ unlock --achievements`
+### 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harishparley&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Harishparley&theme=dracula&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8A33D,50:00D68F,100:E8A33D&height=3&section=header" width="100%" />
+<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg" width="100%" />
 
 <div align="center">
 
-#### `$ tail -f contributions.log`
+### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0F12,50:132420,100:0D0F12&height=120&section=footer" width="100%" />
+<br/>
 
 <div align="center">
-<sub>⚡ Thanks for stopping by — let's build something with AI.</sub>
+<sub>Thanks for stopping by — let's build something with AI. ⚡</sub>
 </div>
