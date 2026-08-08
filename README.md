@@ -7,7 +7,7 @@
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=19&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+AI-powered+full-stack+products;Gemini+%2B+OpenAI+%2B+Computer+Vision+(OCR);Architecting+scalable+MERN+systems;Currently+exploring+n8n+%2B+LLM+agents" />
 </a>
-
+<br/>
 <!-- <br/><br/>
 
 <a href="https://www.linkedin.com/in/harishparley/">
@@ -64,9 +64,9 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 
 <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
 
-<div align="center">
+<div>
 
-#PROJECTS
+###PROJECTS
 
 </div>
 
@@ -115,14 +115,14 @@ Full Stack MERN Developer with hands-on experience integrating **AI/LLM APIs** (
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" /> -->
 
 <div align="center">
 
 ### GITHUB STATS
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harishparley&show_icons=true&bg_color=0B0906&title_color=D4AF37&icon_color=F4E4BC&text_color=E8D5B7&border_color=8B6914&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishparley&layout=compact&bg_color=0B0906&title_color=D4AF37&text_color=E8D5B7&border_color=8B6914&hide_border=false" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harishparley&show_icons=true&bg_color=0B0906&title_color=D4AF37&icon_color=F4E4BC&text_color=E8D5B7&border_color=8B6914&hide_border=false&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishparley&layout=compact&bg_color=0B0906&title_color=D4AF37&text_color=E8D5B7&border_color=8B6914&hide_border=false" /> -->
 
 <img src="https://streak-stats.demolab.com/?user=Harishparley&background=0B0906&ring=D4AF37&fire=F4E4BC&currStreakLabel=D4AF37&sideLabels=8B6914&currStreakNum=F4E4BC&sideNums=E8D5B7&dates=8B6914&border=8B6914" />
 
