@@ -8,27 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=19&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+AI-powered+full-stack+products;Gemini+%2B+OpenAI+%2B+Computer+Vision+(OCR);Architecting+scalable+MERN+systems;Currently+exploring+n8n+%2B+LLM+agents" />
 </a>
 <br/>
-<!-- <br/><br/>
-
-<a href="https://www.linkedin.com/in/harishparley/">
-<img src="https://img.shields.io/badge/LINKEDIN-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0B0906&labelColor=0B0906" />
-</a>
-<a href="https://portfolio-harishparley.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=vercel&logoColor=0B0906&labelColor=0B0906" />
-</a>
-<a href="mailto:harishparleyhp@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=0B0906&labelColor=0B0906" />
-</a>
-
-<br/><br/> -->
-
-<!-- <img src="https://komarev.com/ghpvc/?username=Harishparley&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge&labelColor=0B0906" /> -->
 
 </div>
-
-<!-- <br/> -->
-
-<!-- <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" /> -->
 
 <table>
 <tr>
@@ -37,7 +18,7 @@
 ### ABOUT
 
 Full Stack MERN Developer who builds scalable, production-ready systems end-to-end — backend architecture, RESTful APIs, and real-time features. Built **QuickSell**, an AI-verified P2P campus marketplace that uses OCR-based identity verification and real-time chat.
- 
+
 - Built **QuickSell** — AI-verified P2P campus marketplace with OCR-based ID verification
 - Comfortable working with **REST APIs**, **Socket.io real-time systems**, and **cloud deployment**
 - Interested in exploring **LLM integration** and **workflow automation** further
@@ -48,7 +29,7 @@ Full Stack MERN Developer who builds scalable, production-ready systems end-to-e
 <td width="40%" valign="top">
 
 ### STACK
- <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,aws,vercel&theme=dark&perline=4" /> 
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,aws,vercel&theme=dark&perline=4" />
 
 <br/>
 
@@ -62,13 +43,10 @@ Full Stack MERN Developer who builds scalable, production-ready systems end-to-e
 </tr>
 </table>
 
-<!-- <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" /> -->
 <br/>
 
 <div align="center">
-<b> PROJECTS <b/>
- 
-
+<b>PROJECTS</b>
 
 <table>
 <tr>
@@ -116,34 +94,15 @@ Full Stack MERN Developer who builds scalable, production-ready systems end-to-e
 </table>
 </div>
 
-<!-- <img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" /> -->
-
 <div align="center">
 
 ### GITHUB STATS
-
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harishparley&show_icons=true&bg_color=0B0906&title_color=D4AF37&icon_color=F4E4BC&text_color=E8D5B7&border_color=8B6914&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishparley&layout=compact&bg_color=0B0906&title_color=D4AF37&text_color=E8D5B7&border_color=8B6914&hide_border=false" /> -->
 
 <img src="https://streak-stats.demolab.com/?user=Harishparley&background=0B0906&ring=D4AF37&fire=F4E4BC&currStreakLabel=D4AF37&sideLabels=8B6914&currStreakNum=F4E4BC&sideNums=E8D5B7&dates=8B6914&border=8B6914" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishparley&bg_color=0B0906&color=D4AF37&line=D4AF37&point=F4E4BC&area=true&area_color=8B6914&hide_border=true" />
 
 <br/>
-<!-- </div>
-
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" />
-
-<div align="center"> -->
-
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=Harishparley&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Harishparley/Harishparley/main/assets/divider.svg?v=3" width="100%" /> -->
-
-<div align="center">
 
 ### CONTRIBUTION SNAKE
 
