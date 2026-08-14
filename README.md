@@ -98,7 +98,7 @@ Full Stack MERN Developer who builds scalable, production-ready systems end-to-e
 
 ### GITHUB STATS
 
-<img src="https://streak-stats.demolab.com/?user=Harishparley&background=0B0906&ring=D4AF37&fire=F4E4BC&currStreakLabel=D4AF37&sideLabels=8B6914&currStreakNum=F4E4BC&sideNums=E8D5B7&dates=8B6914&border=8B6914" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/? user=Harishparley&background=0B0906&ring=D4AF37&fire=F4E4BC&currStreakLabel=D4AF37&sideLabels=8B6914&currStreakNum=F4E4BC&sideNums=E8D5B7&dates=8B6914&border=8B6914" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishparley&bg_color=0B0906&color=D4AF37&line=D4AF37&point=F4E4BC&area=true&area_color=8B6914&hide_border=true" />
 
