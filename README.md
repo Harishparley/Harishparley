@@ -77,7 +77,7 @@ Full Stack MERN Developer who builds scalable, production-ready systems end-to-e
 
 </td>
 </tr>
-<tr>
+<!-- <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Harishparley/azure-haven-resort"><img src="https://img.shields.io/badge/Azure_Haven_Resort-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906" /></a>
@@ -89,7 +89,7 @@ Full Stack MERN Developer who builds scalable, production-ready systems end-to-e
 <a href="https://github.com/Harishparley/chai_culture_task"><img src="https://img.shields.io/badge/Chai_Culture-D4AF37?style=for-the-badge&logo=github&logoColor=0B0906" /></a>
 <br/>Brand landing page.
 
-</td>
+</td> -->
 </tr>
 </table>
 </div>
